@@ -1,0 +1,5 @@
+/.idea
+docker/.data/*
+docker/logs/*
+mysql_dump/*
+docker-compose.yml
